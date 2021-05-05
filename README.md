@@ -1,6 +1,6 @@
 👋 Hi, I’m Rory
 
-👀 I’m interested in Rust, C#, Systems Automation and playing outside
+👀 I’m interested in Rust, C#, F#, Systems Automation and playing outside
 
 🌱 I’m currently learning Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
