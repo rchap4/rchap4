@@ -4,7 +4,7 @@
 
 👍 PowerShell and Python are also fun.
 
-🌱 I’m currently learning Rust
+🌱 I’m currently hacking on projects using Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ...   -->
 
