@@ -2,6 +2,8 @@
 
 👀 I’m interested in Rust, C#, F#, Systems Automation and playing outside
 
+👍 PowerShell and Python are also fun.
+
 🌱 I’m currently learning Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ...   -->
