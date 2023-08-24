@@ -1,4 +1,4 @@
-👋 Hi, I’m Rory
+Hi, I’m Rory ✌️
 
 🌱 I’m currently hacking on projects using Rust
 
