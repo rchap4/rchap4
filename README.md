@@ -2,7 +2,7 @@ Hi, I’m Rory ✌️
 
 🌱 I’m currently hacking on projects using Rust
 
-👍 Bikes, PowerShell and Python are also fun.
+🚴 Bikes, PowerShell and Python are also fun.
 
 🦬 Professionally, I am a Platform Engineer working with OpenShift/Kubernetes, Prometheus, Grafana and code with Ansible, Python, Go
 
